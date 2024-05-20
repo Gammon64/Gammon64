@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m the dev behind [MesaDraconica](https://mesadraconica-ttrpg.web.app/)
+- 👯 I’m the dev behind [MesaDraconica](https://mesadraconica-ttrpg.web.app/) and [DomusVolt](https://www.domusvolt.com.br/)
 
 - 👨‍💻 All of my projects are available at [Gammon Sistemas](https://gammonsoftware.web.app/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **Next** and cars!
 
 - 📫 How to reach me **hugo.hbs64@gmail.com**
 
