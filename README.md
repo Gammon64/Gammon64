@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Supercuka](https://supercuka.vercel.app/)
+- 🔭 I’m currently working on [Supercuka](https://supercuka.vercel.app/) and [DomusVolt](https://www.domusvolt.com.br/)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m the dev behind [MesaDraconica](https://mesadraconica-ttrpg.web.app/) and [DomusVolt](https://www.domusvolt.com.br/)
+- 👯 I’m the dev behind [MesaDraconica](https://mesadraconica-ttrpg.web.app/)
 
 - 👨‍💻 All of my projects are available at [Gammon Sistemas](https://gammonsistemas.vercel.app/)
 
