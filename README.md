@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Supercuka](https://supercuka.vercel.app/) and [DomusVolt](https://www.domusvolt.com.br/)
+- 🔭 I’m currently working on [DomusVolt](https://www.domusvolt.com.br/)
 
 - 🌱 I’m currently learning **NextJs**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hugo.hbs64@gmail.com**
 
-- ⚡ Fun fact **I'm a RPG DM at my free time**
+- ⚡ Fun fact **I make sushi in a restaurant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
